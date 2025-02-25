@@ -12,6 +12,6 @@ language : tamil
 
 3.
 
-name : vineeth sreenivasan
+name : Vineeth sreenivasan
 
 language : malayalam
